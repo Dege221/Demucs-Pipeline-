@@ -1,0 +1,8 @@
+torch
+torchaudio
+matplotlib
+numpy
+soundfile
+demucs
+openai-whisper
+moviepy
